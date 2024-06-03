@@ -1,4 +1,5 @@
 # MERNProject
 ### ER Diagram for the entities user, post and follow.
 
-<img width="513" alt="Screenshot 2024-06-02 at 10 48 41 AM" src="https://github.com/Nandu064/MERNProject/assets/49789508/2c0b0ff0-329b-4080-82b9-6660cc3873d4">
+
+<img width="816" alt="Screenshot 2024-06-03 at 8 36 20 AM" src="https://github.com/Nandu064/MERNProject/assets/49789508/f1652025-6249-4f63-a0e3-850189516401">
